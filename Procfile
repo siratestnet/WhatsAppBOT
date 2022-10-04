@@ -1,1 +1,1 @@
-web: node . --server
+web: 'mongodb+srv://dimas:dimasganteng@cluster0.bzemqtv.mongodb.net/?retryWrites=true&w=majority'
