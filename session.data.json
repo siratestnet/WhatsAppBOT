@@ -49,14 +49,14 @@
       "deviceSignature": "NmhZiYZwd1KPvxm0+oo9Z3wBfnPI9zzUcCJDzTz0d7JUCqWtpebXtrRTMKWAfAu2i8qryo3JjG6NLD4EbnB6Cw=="
     },
     "me": {
-      "id": "6282142110606:13@s.whatsapp.net",
+      "id": "6282211247011:13@s.whatsapp.net",
       "verifiedName": "",
       "name": "Dmss🥴"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "6282142110606:13@s.whatsapp.net",
+          "name": "6282211247011:13@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -363,7 +363,7 @@
       }
     },
     "sessions": {
-      "6282142110606.0": {
+      "6282211247011.0": {
         "_sessions": {
           "BUJjmJBjVrcF9BX8s8T4EwbWoZCE95jcUt0bRCoPxJAQ": {
             "registrationId": 819905892,
